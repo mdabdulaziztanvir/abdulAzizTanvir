@@ -7,11 +7,10 @@ html {
   scroll-behavior: smooth;
 }
 body {
-  width: 666px;
+  max-width: 666px;
   margin-inline: auto;
 }
 img {
   width: 100%;
-  max-width: 666px;
   height: auto;
 }
